@@ -1,0 +1,4 @@
+org\example\InvertedIndexService.class
+org\example\InvertedIndexServiceImpl$LineIndexTask.class
+org\example\InvertedIndexServiceImpl.class
+org\example\InvertedIndexServiceNaming.class
